@@ -1,0 +1,1 @@
+This is a notebook created to complete the second course of the IBM DATA SCIENCE formation. In this notebook i´ve learned the use of markdowns and some arithmetic operations and also, i´ve remembered about some terms given in back clases, such as languages of DS or libraries.
